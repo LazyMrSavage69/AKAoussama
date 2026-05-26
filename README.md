@@ -113,6 +113,4 @@
 
 ---
 
-<p align="center">
-  <i>📍 Djerba, Tunisie · 📞 +216 56 317 506</i>
-</p>
+
